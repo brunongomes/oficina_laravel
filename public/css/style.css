@@ -1,0 +1,32 @@
+h1 {
+    color: cornflowerblue;
+}
+
+
+/* Create produto */
+
+#produto-create-container {
+    padding: 30px;
+}
+
+#produto-create-container label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#produto-create-container input,
+#produto-create-container select,
+#produto-create-container textarea {
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+
+#produto-edit-container input,
+#produto-edit-container textarea {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.produtos-list-container form {
+    display: inline-block;
+}
